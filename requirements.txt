@@ -1,0 +1,12 @@
+# pickle
+mlflow
+scikit-learn
+pandas
+seaborn
+numpy
+matplotlib
+fastapi
+uvicorn
+gdown
+loguru
+ipykernel
